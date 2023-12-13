@@ -1,4 +1,10 @@
 ### Hi there ~ 👋
+### Kotiln 공부중입니다.
+
+1. Academy_portfolio : 개인 프로젝트 (K - digital training)
+2. App_portfoilo : kotlin, swift project
+3. Coding_test : kotlin 코딩테스트
+4. wooteco : 2023 우아한 테크코스 테스트 미션
 
 <!--
 **sungsik-git/sungsik-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
