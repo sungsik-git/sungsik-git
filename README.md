@@ -1,7 +1,7 @@
 ### Hi there ~ 👋
 ### Kotiln 공부중입니다.
 
-1. Java 
+1. Java_rhythm_game : JFrame을 이용한 리듬게임
 2. Academy_portfolio : 개인 프로젝트 (K - digital training)
 3. App_portfoilo : kotlin, swift project
 4. Coding_test : kotlin 코딩테스트
