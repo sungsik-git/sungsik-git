@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![sungsik-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungsik-git&show_icons=true&theme=tokyonight)
- 
+ <script src="https://gist.github.com/sungsik-git/cc1c3995edf344c3893289c35a5229d0.js"></script>
