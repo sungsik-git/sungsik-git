@@ -1,6 +1,7 @@
 ### Hi there ~ 👋
 
-1. react_rhythm_game : react로 구현한 리듬게임
+## - Pinned Project Infomation -
+1. rhythm_game : < Phaser, React > 리듬게임
 2. Academy_portfolio : 개인 프로젝트 (K - digital training)
 3. App_portfoilo : kotlin, swift project
 4. Coding_test : kotlin 코딩테스트
